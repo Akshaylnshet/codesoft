@@ -1,1 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landing page</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
+</head>
+<body>
+    <header>
+        <nav class="nav1"> 
+        <div class="icon">
+            <i class="fa fa-facebook" <a href=""></i>
+            <i class="fa fa-instagram"></i>
+            <i class="fa fa-twitter"></i>
+            <i class="fa fa-linkedin"></i>
+        </div>  
+        <div>
+            <p class="p1">email:akshaylnshet@gmail.com</p>
+        </div>  
+        <div>
+            <button class="b1">resume</button>
+        </div>
+        </nav>
+    
+        <nav class="nav2  ">
+            <div>LANDING PAGE</div>
+            <div class="menu">
+                <a href="">home</a><a href="">blog</a><a href="">skills</a><a href="">about me</a>
+            </div>
+            <div>
+                <a href="" class="s">&#128269</a>
+            </div>
+        </nav>
+        <nav>
+        <div class="image">
+            <img src="picc.jpg" alt="image" width="760" height="400">
+        </div>
+        </nav>
+        <div class="ul1">
+            <ul >
+                <li>launch business </li>
+                <li>online support </li>
+                <li>time management </li>
+                
+            </ul>
+        </div>
+    </header>
+    <main>
+        <nav >
+            <div class="text">
+            <h2>about us</h2>
+                <h3>6 months of experieance in ethical hacking</h3>
+                <p>In an age where cybersecurity breaches have become commonplace, the role of ethical hacking has never been more critical. Ethical hacking, also known as penetration testing or white-hat hacking, involves authorized professionals attempting to exploit vulnerabilities in computer systems, networks, and applications. The primary goal is to identify and rectify potential security weaknesses before malicious actors can exploit them. This proactive approach to cybersecurity offers a range of essential services that safeguard businesses and individuals from cyber threats.</p>
+            </div>
+            <div class="img">
+                <img src="hk.jpg" alt="">
+            </div>
+            <div>
+                <a href="https://www.synopsys.com/glossary/what-is-ethical-hacking.html">read more</a>
+            </div>
+        </nav>
+        
+    </main>
+    <footer>
+        <h2>our services</h2>
+        
+        <div class="cont">
+            <div class="im1"><img src="p2.jpeg" alt="image" height="120px"></div>
+            <div class="im1"><img src="p3.webp" alt="image"height="120px"></div>
+            <div class="im1"><img src="p1.jpeg" alt="img" height="120px"></div>
+        </div>
+        <div class="cont">
+            <div class="im1"><a href="https://www.tutorialspoint.com/ethical_hacking/ethical_hacking_tools.htm"> our tools</a></div>
+            <div class="im1"><a href="https://intellipaat.com/blog/ethical-hacking-projects/"> create project</a></div>
+            <div class="im1"> <a href="https://www.linkedin.com/company/codesoft/"> our linkedin</a></div>
+        </div>
+    </footer>  
+</body>
+</html>
